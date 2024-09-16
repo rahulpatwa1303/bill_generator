@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+"homepage": "https://rahulpatwa1303.github.io/bill_generator",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
